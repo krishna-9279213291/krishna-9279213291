@@ -16,7 +16,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Krishna Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=💻+Software+Engineer;🚀+Full+Stack+Developer;🤖+AI+System+Builder;⚡+Building+ChatGPT-Like+AI+Systems;🌌+Web+Developer+•+App+Developer;🧠+DSA+Learner+with+C%2B%2B;🔥+Building+Futuristic+Projects" />
+
 
 <br/>
 
