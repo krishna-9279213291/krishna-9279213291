@@ -193,7 +193,7 @@ The vision behind Zyra is to create an AI capable of:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna-9279213291&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-9279213291&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF"/>
 
