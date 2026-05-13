@@ -221,15 +221,6 @@ The vision behind Zyra is to create an AI capable of:
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/krishna-9279213291/krishna-9279213291/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 # 🏆 Achievements
 
@@ -309,15 +300,6 @@ The vision behind Zyra is to create an AI capable of:
 
 ---
 
-# 🎧 Coding Mode
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31example&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -325,59 +307,3 @@ The vision behind Zyra is to create an AI capable of:
 
 </div>
 
-<!-- ========================================================= -->
-<!-- 🐍 SNAKE ANIMATION SETUP (IMPORTANT)                      -->
-<!-- ========================================================= -->
-
-<!--
-
-STEP 1:
-Create repository:
-krishna-9279213291
-
-STEP 2:
-Go to:
-.github/workflows/
-
-Create file:
-snake.yml
-
-STEP 3:
-Paste this code:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: krishna-9279213291
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-STEP 4:
-Commit the file
-
-STEP 5:
-Go to:
-Actions → Enable workflows
-
-DONE ✅
-
--->
