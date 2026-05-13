@@ -67,7 +67,7 @@ Current Project:
 Focus:
   - AI Systems
   - Automation
-  - ChatGPT-like Applications
+  - Intelligent AI -like Applications
   - Futuristic Software Development
 ```
 
@@ -174,7 +174,7 @@ The vision behind Zyra is to create an AI capable of:
 - 👀 Screen Understanding
 - 🔥 Human-Like Interaction
 - ⚡ Wake Word Detection
-- 🤖 ChatGPT-Like AI Experience
+- 🤖 Intelligent AI -Like AI Experience
 - 🛰️ Future Robotics Integration
 
 </td>
@@ -203,7 +203,6 @@ The vision behind Zyra is to create an AI capable of:
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-9279213291&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-9279213291&theme=tokyonight"/>
 
