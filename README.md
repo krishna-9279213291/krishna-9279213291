@@ -221,31 +221,7 @@ The vision behind Zyra is to create an AI capable of:
 ---
 
 
-# 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishna-9279213291&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Software_Engineer-0D1117?style=for-the-badge&logo=codeforces&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/AI_System_Builder-111827?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/Full_Stack_Developer-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/App_Developer-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-
-<img src="https://img.shields.io/badge/DSA_Learner-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
@@ -259,13 +235,9 @@ The vision behind Zyra is to create an AI capable of:
 <img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
 </a>
 
-<a href="https://x.com/KrishnaKum56887">
-<img src="https://cdn.simpleicons.org/x/white" width="55"/>
-</a>
 
-<a href="https://www.instagram.com/krishna07_2005">
-<img src="https://skillicons.dev/icons?i=instagram" width="65"/>
-</a>
+
+
 
 <a href="mailto:kk4585960@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="65"/>
