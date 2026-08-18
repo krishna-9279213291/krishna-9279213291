@@ -30,12 +30,6 @@ I'm currently focused on improving my programming fundamentals, learning Data St
 
 ### Projects
 
-#### Zyra — Personal AI Assistant
-
-Zyra is an ongoing personal project exploring the idea of a useful AI assistant that can understand user commands and help automate everyday tasks.
-
-The project is currently in development and is being built alongside my learning in programming, AI and software development.
-
 ### Learning Journey
 
 This GitHub profile contains my learning work, practice programs and projects.
