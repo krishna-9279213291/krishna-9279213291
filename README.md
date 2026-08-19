@@ -28,7 +28,7 @@ I'm currently focused on improving my programming fundamentals, learning Data St
 
 `Git` `GitHub` `VS Code` `Linux`
 
-### Projects
+
 
 ### Learning Journey
 
